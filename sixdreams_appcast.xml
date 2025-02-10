@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>App Updates</title>
+        <item>
+            <title>Version 2.1.0 (Build 54)</title>
+            <description>Added: - Live Score and Scorecard - Match/Series Info - Series Points Table
+                Fixed: - Promo Code Bug - Banner Auto Scrolling - Fixed the TDS Issue on the
+                Withdrawal Page Improvements: - Frame Drop Issue While Creating Team</description>
+            <pubDate>Sat, 17 May 2024 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
+                sparkle:version="2.1.0" sparkle:os="iOS" />
+            <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+    </channel>
+</rss>
