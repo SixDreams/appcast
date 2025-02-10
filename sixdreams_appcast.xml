@@ -1,16 +1,239 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>App Updates</title>
         <item>
             <title>Version 2.1.0 (Build 54)</title>
+            <description>View all contests categorized by type. Fixed crash issues on Android 7.x
+                and below. Resolved ID proof KYC issue. Added a new conversion method.</description>
+            <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>2.0.2</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+            <enclosure
+                url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
+                sparkle:version="2.1.0" sparkle:os="iOS" />
+            <enclosure
+                url="https://media.sixdreams.com/Android_App/v2.1.0/Six_Dreams-armeabi-v7a.apk"
+                sparkle:version="2.1.0" sparkle:os="android" architecture="armeabi-v7a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.1.0/Six_Dreams-arm64-v8a.apk"
+                sparkle:version="2.1.0" sparkle:os="android" architecture="arm64-v8a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.1.0/Six_Dreams-x86_64.apk"
+                sparkle:version="2.1.0" sparkle:os="android" architecture="x86_64" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.1.0/Six_Dreams.apk"
+                sparkle:version="2.1.0" sparkle:os="android" architecture="universal" />
+        </item>
+        <item>
+            <title>Version 2.0.9 (Build 51)</title>
+            <description>Performance improvements and bug fixes.</description>
+            <pubDate>Thu, 01 Feb 2025 00:00:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>2.0.2</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://media.sixdreams.com/Android_App/v2.0.9/Six_Dreams-armeabi-v7a.apk"
+                sparkle:version="2.0.9" sparkle:os="android" architecture="armeabi-v7a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.9/Six_Dreams-arm64-v8a.apk"
+                sparkle:version="2.0.9" sparkle:os="android" architecture="arm64-v8a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.9/Six_Dreams-x86_64.apk"
+                sparkle:version="2.0.9" sparkle:os="android" architecture="x86_64" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.9/Six_Dreams.apk"
+                sparkle:version="2.0.9" sparkle:os="android" architecture="universal" />
+        </item>
+        <item>
+            <title>Version 2.0.7 (Build 47)</title>
+            <description>New Investment Leaderboard, Quick KYC Fix, Affiliate Feature, Improved UI,
+                Location Bug Fix, Facebook Login Fix, Leaderboard Improvement, Session-Expiry Logout
+                Fix, Backup Player Feature, Banner Slider Fix, OTP Autofill, Deeplink Support.</description>
+            <pubDate>Sat, 19 July 2024 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
+                sparkle:version="2.0.7" sparkle:os="iOS" />
+            <enclosure
+                url="https://media.sixdreams.com/Android_App/v2.0.7/Six_Dreams-armeabi-v7a.apk"
+                sparkle:version="2.0.7" sparkle:os="android" architecture="armeabi-v7a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.7/Six_Dreams-arm64-v8a.apk"
+                sparkle:version="2.0.7" sparkle:os="android" architecture="arm64-v8a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.7/Six_Dreams-x86_64.apk"
+                sparkle:version="2.0.7" sparkle:os="android" architecture="x86_64" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.7/Six_Dreams.apk"
+                sparkle:version="2.0.7" sparkle:os="android" architecture="universal" />
+            <sparkle:minimumSystemVersion>2.0.2</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 2.0.6 (Build 43)</title>
+            <description>•⁠ ⁠Cricket Backup Feature: Add backup players to your team. If a selected
+                player is unannounced, they will automatically be replaced with your backup. •⁠
+                ⁠Winning Zone Indicator: Know how close you are to winning with a clear, real-time
+                indicator. •⁠ ⁠Quick KYC: Streamlined KYC verification before adding cash for a
+                faster and smoother experience. •⁠ ⁠Minor Bug Fixes UI Enhancements: Improved
+                stability and a more polished interface for seamless gameplay.</description>
+            <pubDate>Sat, 19 July 2024 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
+                sparkle:version="2.0.6" sparkle:os="iOS" />
+            <enclosure
+                url="https://media.sixdreams.com/Android_App/v2.0.6/Six_Dreams-armeabi-v7a.apk"
+                sparkle:version="2.0.6" sparkle:os="android" architecture="armeabi-v7a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.6/Six_Dreams-arm64-v8a.apk"
+                sparkle:version="2.0.6" sparkle:os="android" architecture="arm64-v8a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.6/Six_Dreams-x86_64.apk"
+                sparkle:version="2.0.6" sparkle:os="android" architecture="x86_64" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.6/Six_Dreams.apk"
+                sparkle:version="2.0.6" sparkle:os="android" architecture="universal" />
+            <sparkle:minimumSystemVersion>2.0.2</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 2.0.4 (Build 41)</title>
+            <description>Fixed BGMI Bugs, Added previous points in Esports and Earned Points in more
+                details</description>
+            <pubDate>Sat, 31 July 2024 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://media.sixdreams.com/Android_App/v2.0.4/Six_Dreams-armeabi-v7a.apk"
+                sparkle:version="2.0.4" sparkle:os="android" architecture="armeabi-v7a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.4/Six_Dreams-arm64-v8a.apk"
+                sparkle:version="2.0.4" sparkle:os="android" architecture="arm64-v8a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.4/Six_Dreams-x86_64.apk"
+                sparkle:version="2.0.4" sparkle:os="android" architecture="x86_64" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.4/Six_Dreams.apk"
+                sparkle:version="2.0.4" sparkle:os="android" architecture="universal" />
+            <sparkle:minimumSystemVersion>2.0.3</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 2.0.3 (Build 40)</title>
+            <description>Fixed BGMI Bugs, Added previous points in Esports and Earned Points in more
+                details</description>
+            <pubDate>Sat, 19 July 2024 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
+                sparkle:version="2.0.3" sparkle:os="iOS" />
+            <enclosure
+                url="https://media.sixdreams.com/Android_App/v2.0.3/Six_Dreams-armeabi-v7a.apk"
+                sparkle:version="2.0.3" sparkle:os="android" architecture="armeabi-v7a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.3/Six_Dreams-arm64-v8a.apk"
+                sparkle:version="2.0.3" sparkle:os="android" architecture="arm64-v8a" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.3/Six_Dreams-x86_64.apk"
+                sparkle:version="2.0.3" sparkle:os="android" architecture="x86_64" />
+            <enclosure url="https://media.sixdreams.com/Android_App/v2.0.3/Six_Dreams.apk"
+                sparkle:version="2.0.3" sparkle:os="android" architecture="universal" />
+            <sparkle:minimumSystemVersion>2.0.2</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 2.0.2 (Build 39)</title>
+            <description>The new update is here with the Team Swap, Team Share feature.</description>
+            <pubDate>Sat, 11 July 2024 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
+                sparkle:version="2.0.2" sparkle:os="iOS" />
+            <enclosure url="https://get.sixdreams.com" sparkle:version="2.0.2" sparkle:os="android" />
+            <sparkle:minimumSystemVersion>2.0.1</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 2.0.1 (Build 38)</title>
+            <description>We've been hard at work, and we're excited to bring you a major update with
+                some fantastic new features! Reward Features - Earn SD Coins: Maintain daily streaks
+                and complete achievements to earn SD Coins and win exciting prizes. Leaderboard -
+                Top Spot Rewards: Achieve the top spot in the Match Series Leaderboard and get
+                rewarded with amazing prizes. Esports - Create Your Esports Team: Esports is finally
+                here! It's time to create your own team and compete in Esports tournaments. Stay
+                tuned for more updates, and enjoy the new features!</description>
+            <pubDate>Sat, 05 Jun 2024 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
+                sparkle:version="2.0.1" sparkle:os="iOS" />
+            <enclosure url="https://get.sixdreams.com" sparkle:version="2.0.1" sparkle:os="android" />
+            <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 2.0.0 (Build 37)</title>
+            <description>We've been hard at work, and we're excited to bring you a major update with
+                some fantastic new features! Reward Features - Earn SD Coins: Maintain daily streaks
+                and complete achievements to earn SD Coins and win exciting prizes. Leaderboard -
+                Top Spot Rewards: Achieve the top spot in the Match Series Leaderboard and get
+                rewarded with amazing prizes. Esports - Create Your Esports Team: Esports is finally
+                here! It's time to create your own team and compete in Esports tournaments. Stay
+                tuned for more updates, and enjoy the new features!</description>
+            <pubDate>Sat, 05 Jun 2024 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
+                sparkle:version="2.0.0" sparkle:os="iOS" />
+            <enclosure url="https://get.sixdreams.com" sparkle:version="2.0.0" sparkle:os="android" />
+            <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 1.0.9 (Build 35)</title>
             <description>Added: - Live Score and Scorecard - Match/Series Info - Series Points Table
                 Fixed: - Promo Code Bug - Banner Auto Scrolling - Fixed the TDS Issue on the
                 Withdrawal Page Improvements: - Frame Drop Issue While Creating Team</description>
             <pubDate>Sat, 17 May 2024 00:00:00 +0000</pubDate>
+            <enclosure url="https://get.sixdreams.com" sparkle:version="1.0.9" sparkle:os="android" />
             <enclosure
                 url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
-                sparkle:version="2.1.0" sparkle:os="iOS" />
+                sparkle:version="1.0.9" sparkle:os="iOS" />
+            <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 1.0.8 (Build 33)</title>
+            <description>What's New: Exciting Updates! - KYC Page Update - Leaderboard Points
+                Refresh - Captain and Vice-Captain Selection Percentage - More Contests - Total
+                Winnings on Match Detail Page - New Transaction UI - Added Points Table for T10,
+                T20, and ODI</description>
+            <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+            <enclosure url="https://get.sixdreams.com" sparkle:version="1.0.8" sparkle:os="android" />
+            <enclosure
+                url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
+                sparkle:version="1.0.8" sparkle:os="iOS" />
+            <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 1.0.7</title>
+            <description>We're working every day to enhance your experience. New Feature: Added
+                'Discount Cash' to your unutilized amount. Bug Fixes: Resolved minor issues for
+                smoother gameplay. More Matches: Increased the number of matches available for
+                selection. Thank you for choosing us!</description>
+            <pubDate>Wed, 19 Apr 2024 00:00:00 +0000</pubDate>
+            <enclosure url="https://get.sixdreams.com" sparkle:version="1.0.7" sparkle:os="android" />
+            <enclosure
+                url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
+                sparkle:version="1.0.7" sparkle:os="iOS" />
+            <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 1.0.6</title>
+            <description>Critical bugs Fixes.</description>
+            <pubDate>Sat, 12 Apr 2024 13:57:00 +0000</pubDate>
+            <enclosure url="https://get.sixdreams.com" sparkle:version="1.0.6" sparkle:os="android" />
+            <enclosure
+                url="https://apps.apple.com/in/app/six-dreams-fantasy-sports-app/id6477154031"
+                sparkle:version="1.0.6" sparkle:os="iOS" />
             <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
             <sparkle:tags>
                 <sparkle:criticalUpdate />
